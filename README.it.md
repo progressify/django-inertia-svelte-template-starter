@@ -8,7 +8,7 @@
 [![Dona con Satispay](https://img.shields.io/badge/Satispay-Donate%20to%20Author-red.svg)](https://tag.satispay.com/progressify) 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/progressify/django-inertia-svelte-starter/issues)
 
-[Here you find the italian version of this README](README.md)
+[Here you find the english version of this README](README.md)
 
 Il template starter combina tre tecnologie per creare un'applicazione web full-stack solida e fluida. 
 
